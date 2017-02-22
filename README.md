@@ -7,3 +7,7 @@ ice cream<br>
 riding my bike<br>
 videogames<br>
 etc<br>
+<hr>
+apples<br>
+cookies<br>
+stars<br>
